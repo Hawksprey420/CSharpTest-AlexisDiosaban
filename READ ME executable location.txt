@@ -1,0 +1,4 @@
+\ASAG-CSharp\bin\Debug\net6.0
+ASAG-CSharp.exe is the executable file 
+
+You need .NET 6.0 for this to work.

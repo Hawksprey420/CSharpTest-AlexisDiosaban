@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\ASAG-CSharp\bin\Debug\net6.0\ASAG-CSharp.exe
+C:\Users\PC\source\repos\ASAG-CSharp\bin\Debug\net6.0\ASAG-CSharp.deps.json
+C:\Users\PC\source\repos\ASAG-CSharp\bin\Debug\net6.0\ASAG-CSharp.runtimeconfig.json
+C:\Users\PC\source\repos\ASAG-CSharp\bin\Debug\net6.0\ASAG-CSharp.dll
+C:\Users\PC\source\repos\ASAG-CSharp\bin\Debug\net6.0\ASAG-CSharp.pdb
+C:\Users\PC\source\repos\ASAG-CSharp\obj\Debug\net6.0\ASAG-CSharp.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\ASAG-CSharp\obj\Debug\net6.0\ASAG-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\ASAG-CSharp\obj\Debug\net6.0\ASAG-CSharp.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ASAG-CSharp\obj\Debug\net6.0\ASAG-CSharp.AssemblyInfo.cs
+C:\Users\PC\source\repos\ASAG-CSharp\obj\Debug\net6.0\ASAG-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ASAG-CSharp\obj\Debug\net6.0\ASAG-CSharp.dll
+C:\Users\PC\source\repos\ASAG-CSharp\obj\Debug\net6.0\refint\ASAG-CSharp.dll
+C:\Users\PC\source\repos\ASAG-CSharp\obj\Debug\net6.0\ASAG-CSharp.pdb
+C:\Users\PC\source\repos\ASAG-CSharp\obj\Debug\net6.0\ASAG-CSharp.genruntimeconfig.cache
+C:\Users\PC\source\repos\ASAG-CSharp\obj\Debug\net6.0\ref\ASAG-CSharp.dll

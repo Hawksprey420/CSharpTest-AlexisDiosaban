@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASAG-CSharp", "ASAG-CSharp.csproj", "{4699AE43-8981-46C1-B563-79CEEA4CCEDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4699AE43-8981-46C1-B563-79CEEA4CCEDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4699AE43-8981-46C1-B563-79CEEA4CCEDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4699AE43-8981-46C1-B563-79CEEA4CCEDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4699AE43-8981-46C1-B563-79CEEA4CCEDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76CEB676-35F6-44D9-A2A3-5C45BD9693BB}
+	EndGlobalSection
+EndGlobal
